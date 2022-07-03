@@ -1,0 +1,1528 @@
+//////////////////////////
+//Yamaha C10 Grand Piano//
+//////////////////////////
+
+// Soundfont version: 10
+// Presets version (SFZ): 10
+
+<group>
+effect1=75
+lovel=121 hivel=127
+ampeg_release=1.5
+amp_velcurve_127=1
+
+<region> sample=EWIG121-127_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=EWIG121-127_022.flac key=22
+<region> sample=EWIG121-127_023.flac key=23
+<region> sample=EWIG121-127_024.flac key=24
+<region> sample=EWIG121-127_025.flac key=25
+<region> sample=EWIG121-127_026.flac key=26
+<region> sample=EWIG121-127_027.flac key=27
+<region> sample=EWIG121-127_028.flac key=28
+<region> sample=EWIG121-127_029.flac key=29
+<region> sample=EWIG121-127_030.flac key=30
+<region> sample=EWIG121-127_031.flac key=31
+<region> sample=EWIG121-127_032.flac key=32 
+<region> sample=EWIG121-127_033.flac key=33
+<region> sample=EWIG121-127_034.flac key=34
+<region> sample=EWIG121-127_035.flac key=35
+<region> sample=EWIG121-127_036.flac key=36
+<region> sample=EWIG121-127_037.flac key=37
+<region> sample=EWIG121-127_038.flac key=38
+<region> sample=EWIG121-127_039.flac key=39
+<region> sample=EWIG121-127_040.flac key=40
+<region> sample=EWIG121-127_041.flac key=41
+<region> sample=EWIG121-127_042.flac key=42
+<region> sample=EWIG121-127_043.flac key=43
+<region> sample=EWIG121-127_044.flac key=44
+<region> sample=EWIG121-127_045.flac key=45
+<region> sample=EWIG121-127_046.flac key=46
+<region> sample=EWIG121-127_047.flac key=47
+<region> sample=EWIG121-127_048.flac key=48
+<region> sample=EWIG121-127_049.flac key=49
+<region> sample=EWIG121-127_050.flac key=50
+<region> sample=EWIG121-127_051.flac key=51
+<region> sample=EWIG121-127_052.flac key=52
+<region> sample=EWIG121-127_053.flac key=53
+<region> sample=EWIG121-127_054.flac key=54
+<region> sample=EWIG121-127_055.flac key=55
+<region> sample=EWIG121-127_056.flac key=56
+<region> sample=EWIG121-127_057.flac key=57
+<region> sample=EWIG121-127_058.flac key=58
+<region> sample=EWIG121-127_059.flac key=59
+<region> sample=EWIG121-127_060.flac key=60
+<region> sample=EWIG121-127_061.flac key=61
+<region> sample=EWIG121-127_062.flac key=62
+<region> sample=EWIG121-127_063.flac key=63
+<region> sample=EWIG121-127_064.flac key=64
+<region> sample=EWIG121-127_065.flac key=65
+<region> sample=EWIG121-127_066.flac key=66
+<region> sample=EWIG121-127_067.flac key=67
+<region> sample=EWIG121-127_068.flac key=68
+<region> sample=EWIG121-127_069.flac key=69
+<region> sample=EWIG121-127_070.flac key=70
+<region> sample=EWIG121-127_071.flac key=71
+<region> sample=EWIG121-127_072.flac key=72
+<region> sample=EWIG121-127_073.flac key=73
+<region> sample=EWIG121-127_074.flac key=74
+<region> sample=EWIG121-127_075.flac key=75
+<region> sample=EWIG121-127_076.flac key=76
+<region> sample=EWIG121-127_077.flac key=77
+<region> sample=EWIG121-127_078.flac key=78
+<region> sample=EWIG121-127_079.flac key=79
+<region> sample=EWIG121-127_080.flac key=80
+<region> sample=EWIG121-127_081.flac key=81
+<region> sample=EWIG121-127_082.flac key=82
+<region> sample=EWIG121-127_083.flac key=83
+<region> sample=EWIG121-127_084.flac key=84
+<region> sample=EWIG121-127_085.flac key=85
+<region> sample=EWIG121-127_086.flac key=86
+<region> sample=EWIG121-127_087.flac key=87
+<region> sample=EWIG121-127_088.flac key=88
+<region> sample=EWIG121-127_089.flac key=89
+<region> sample=EWIG121-127_090.flac key=90
+<region> sample=EWIG121-127_091.flac key=91
+<region> sample=EWIG121-127_092.flac key=92
+<region> sample=EWIG121-127_093.flac key=93
+<region> sample=EWIG121-127_094.flac key=94
+<region> sample=EWIG121-127_095.flac key=95
+<region> sample=EWIG121-127_096.flac key=96
+<region> sample=EWIG121-127_097.flac key=97
+<region> sample=EWIG121-127_098.flac key=98
+<region> sample=EWIG121-127_099.flac key=99
+<region> sample=EWIG121-127_100.flac key=100
+<region> sample=EWIG121-127_101.flac key=101
+<region> sample=EWIG121-127_102.flac key=102
+<region> sample=EWIG121-127_103.flac key=103
+<region> sample=EWIG121-127_104.flac key=104
+<region> sample=EWIG121-127_105.flac key=105
+<region> sample=EWIG121-127_106.flac key=106
+<region> sample=EWIG121-127_107.flac key=107
+<region> sample=EWIG121-127_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+effect1=75
+lovel=113 hivel=120
+ampeg_release=1.5
+amp_velcurve_127=1
+
+<region> sample=EWIG113-120_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=EWIG113-120_022.flac key=22
+<region> sample=EWIG113-120_023.flac key=23
+<region> sample=EWIG113-120_024.flac key=24
+<region> sample=EWIG113-120_025.flac key=25
+<region> sample=EWIG113-120_026.flac key=26
+<region> sample=EWIG113-120_027.flac key=27
+<region> sample=EWIG113-120_028.flac key=28
+<region> sample=EWIG113-120_029.flac key=29
+<region> sample=EWIG113-120_030.flac key=30
+<region> sample=EWIG113-120_031.flac key=31
+<region> sample=EWIG113-120_032.flac key=32 
+<region> sample=EWIG113-120_033.flac key=33
+<region> sample=EWIG113-120_034.flac key=34
+<region> sample=EWIG113-120_035.flac key=35
+<region> sample=EWIG113-120_036.flac key=36
+<region> sample=EWIG113-120_037.flac key=37
+<region> sample=EWIG113-120_038.flac key=38
+<region> sample=EWIG113-120_039.flac key=39
+<region> sample=EWIG113-120_040.flac key=40
+<region> sample=EWIG113-120_041.flac key=41
+<region> sample=EWIG113-120_042.flac key=42
+<region> sample=EWIG113-120_043.flac key=43
+<region> sample=EWIG113-120_044.flac key=44
+<region> sample=EWIG113-120_045.flac key=45
+<region> sample=EWIG113-120_046.flac key=46
+<region> sample=EWIG113-120_047.flac key=47
+<region> sample=EWIG113-120_048.flac key=48
+<region> sample=EWIG113-120_049.flac key=49
+<region> sample=EWIG113-120_050.flac key=50
+<region> sample=EWIG113-120_051.flac key=51
+<region> sample=EWIG113-120_052.flac key=52
+<region> sample=EWIG113-120_053.flac key=53
+<region> sample=EWIG113-120_054.flac key=54
+<region> sample=EWIG113-120_055.flac key=55
+<region> sample=EWIG113-120_056.flac key=56
+<region> sample=EWIG113-120_057.flac key=57
+<region> sample=EWIG113-120_058.flac key=58
+<region> sample=EWIG113-120_059.flac key=59
+<region> sample=EWIG113-120_060.flac key=60
+<region> sample=EWIG113-120_061.flac key=61
+<region> sample=EWIG113-120_062.flac key=62
+<region> sample=EWIG113-120_063.flac key=63
+<region> sample=EWIG113-120_064.flac key=64
+<region> sample=EWIG113-120_065.flac key=65
+<region> sample=EWIG113-120_066.flac key=66
+<region> sample=EWIG113-120_067.flac key=67
+<region> sample=EWIG113-120_068.flac key=68
+<region> sample=EWIG113-120_069.flac key=69
+<region> sample=EWIG113-120_070.flac key=70
+<region> sample=EWIG113-120_071.flac key=71
+<region> sample=EWIG113-120_072.flac key=72
+<region> sample=EWIG113-120_073.flac key=73
+<region> sample=EWIG113-120_074.flac key=74
+<region> sample=EWIG113-120_075.flac key=75
+<region> sample=EWIG113-120_076.flac key=76
+<region> sample=EWIG113-120_077.flac key=77
+<region> sample=EWIG113-120_078.flac key=78
+<region> sample=EWIG113-120_079.flac key=79
+<region> sample=EWIG113-120_080.flac key=80
+<region> sample=EWIG113-120_081.flac key=81
+<region> sample=EWIG113-120_082.flac key=82
+<region> sample=EWIG113-120_083.flac key=83
+<region> sample=EWIG113-120_084.flac key=84
+<region> sample=EWIG113-120_085.flac key=85
+<region> sample=EWIG113-120_086.flac key=86
+<region> sample=EWIG113-120_087.flac key=87
+<region> sample=EWIG113-120_088.flac key=88
+<region> sample=EWIG113-120_089.flac key=89
+<region> sample=EWIG113-120_090.flac key=90
+<region> sample=EWIG113-120_091.flac key=91
+<region> sample=EWIG113-120_092.flac key=92
+<region> sample=EWIG113-120_093.flac key=93
+<region> sample=EWIG113-120_094.flac key=94
+<region> sample=EWIG113-120_095.flac key=95
+<region> sample=EWIG113-120_096.flac key=96
+<region> sample=EWIG113-120_097.flac key=97
+<region> sample=EWIG113-120_098.flac key=98
+<region> sample=EWIG113-120_099.flac key=99
+<region> sample=EWIG113-120_100.flac key=100
+<region> sample=EWIG113-120_101.flac key=101
+<region> sample=EWIG113-120_102.flac key=102
+<region> sample=EWIG113-120_103.flac key=103
+<region> sample=EWIG113-120_104.flac key=104
+<region> sample=EWIG113-120_105.flac key=105
+<region> sample=EWIG113-120_106.flac key=106
+<region> sample=EWIG113-120_107.flac key=107
+<region> sample=EWIG113-120_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+effect1=75
+lovel=105 hivel=112
+ampeg_release=1.5
+amp_velcurve_127=1
+
+<region> sample=EWIG105-112_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=EWIG105-112_022.flac key=22
+<region> sample=EWIG105-112_023.flac key=23
+<region> sample=EWIG105-112_024.flac key=24
+<region> sample=EWIG105-112_025.flac key=25
+<region> sample=EWIG105-112_026.flac key=26
+<region> sample=EWIG105-112_027.flac key=27
+<region> sample=EWIG105-112_028.flac key=28
+<region> sample=EWIG105-112_029.flac key=29
+<region> sample=EWIG105-112_030.flac key=30
+<region> sample=EWIG105-112_031.flac key=31
+<region> sample=EWIG105-112_032.flac key=32 
+<region> sample=EWIG105-112_033.flac key=33
+<region> sample=EWIG105-112_034.flac key=34
+<region> sample=EWIG105-112_035.flac key=35
+<region> sample=EWIG105-112_036.flac key=36
+<region> sample=EWIG105-112_037.flac key=37
+<region> sample=EWIG105-112_038.flac key=38
+<region> sample=EWIG105-112_039.flac key=39
+<region> sample=EWIG105-112_040.flac key=40
+<region> sample=EWIG105-112_041.flac key=41
+<region> sample=EWIG105-112_042.flac key=42
+<region> sample=EWIG105-112_043.flac key=43
+<region> sample=EWIG105-112_044.flac key=44
+<region> sample=EWIG105-112_045.flac key=45
+<region> sample=EWIG105-112_046.flac key=46
+<region> sample=EWIG105-112_047.flac key=47
+<region> sample=EWIG105-112_048.flac key=48
+<region> sample=EWIG105-112_049.flac key=49
+<region> sample=EWIG105-112_050.flac key=50
+<region> sample=EWIG105-112_051.flac key=51
+<region> sample=EWIG105-112_052.flac key=52
+<region> sample=EWIG105-112_053.flac key=53
+<region> sample=EWIG105-112_054.flac key=54
+<region> sample=EWIG105-112_055.flac key=55
+<region> sample=EWIG105-112_056.flac key=56
+<region> sample=EWIG105-112_057.flac key=57
+<region> sample=EWIG105-112_058.flac key=58
+<region> sample=EWIG105-112_059.flac key=59
+<region> sample=EWIG105-112_060.flac key=60
+<region> sample=EWIG105-112_061.flac key=61
+<region> sample=EWIG105-112_062.flac key=62
+<region> sample=EWIG105-112_063.flac key=63
+<region> sample=EWIG105-112_064.flac key=64
+<region> sample=EWIG105-112_065.flac key=65
+<region> sample=EWIG105-112_066.flac key=66
+<region> sample=EWIG105-112_067.flac key=67
+<region> sample=EWIG105-112_068.flac key=68
+<region> sample=EWIG105-112_069.flac key=69
+<region> sample=EWIG105-112_070.flac key=70
+<region> sample=EWIG105-112_071.flac key=71
+<region> sample=EWIG105-112_072.flac key=72
+<region> sample=EWIG105-112_073.flac key=73
+<region> sample=EWIG105-112_074.flac key=74
+<region> sample=EWIG105-112_075.flac key=75
+<region> sample=EWIG105-112_076.flac key=76
+<region> sample=EWIG105-112_077.flac key=77
+<region> sample=EWIG105-112_078.flac key=78
+<region> sample=EWIG105-112_079.flac key=79
+<region> sample=EWIG105-112_080.flac key=80
+<region> sample=EWIG105-112_081.flac key=81
+<region> sample=EWIG105-112_082.flac key=82
+<region> sample=EWIG105-112_083.flac key=83
+<region> sample=EWIG105-112_084.flac key=84
+<region> sample=EWIG105-112_085.flac key=85
+<region> sample=EWIG105-112_086.flac key=86
+<region> sample=EWIG105-112_087.flac key=87
+<region> sample=EWIG105-112_088.flac key=88
+<region> sample=EWIG105-112_089.flac key=89
+<region> sample=EWIG105-112_090.flac key=90
+<region> sample=EWIG105-112_091.flac key=91
+<region> sample=EWIG105-112_092.flac key=92
+<region> sample=EWIG105-112_093.flac key=93
+<region> sample=EWIG105-112_094.flac key=94
+<region> sample=EWIG105-112_095.flac key=95
+<region> sample=EWIG105-112_096.flac key=96
+<region> sample=EWIG105-112_097.flac key=97
+<region> sample=EWIG105-112_098.flac key=98
+<region> sample=EWIG105-112_099.flac key=99
+<region> sample=EWIG105-112_100.flac key=100
+<region> sample=EWIG105-112_101.flac key=101
+<region> sample=EWIG105-112_102.flac key=102
+<region> sample=EWIG105-112_103.flac key=103
+<region> sample=EWIG105-112_104.flac key=104
+<region> sample=EWIG105-112_105.flac key=105
+<region> sample=EWIG105-112_106.flac key=106
+<region> sample=EWIG105-112_107.flac key=107
+<region> sample=EWIG105-112_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+effect1=75
+lovel=97 hivel=104
+ampeg_release=1.5
+amp_velcurve_127=1
+
+<region> sample=EWIG97-104_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=EWIG97-104_022.flac key=22
+<region> sample=EWIG97-104_023.flac key=23
+<region> sample=EWIG97-104_024.flac key=24
+<region> sample=EWIG97-104_025.flac key=25
+<region> sample=EWIG97-104_026.flac key=26
+<region> sample=EWIG97-104_027.flac key=27
+<region> sample=EWIG97-104_028.flac key=28
+<region> sample=EWIG97-104_029.flac key=29
+<region> sample=EWIG97-104_030.flac key=30
+<region> sample=EWIG97-104_031.flac key=31
+<region> sample=EWIG97-104_032.flac key=32 
+<region> sample=EWIG97-104_033.flac key=33
+<region> sample=EWIG97-104_034.flac key=34
+<region> sample=EWIG97-104_035.flac key=35
+<region> sample=EWIG97-104_036.flac key=36
+<region> sample=EWIG97-104_037.flac key=37
+<region> sample=EWIG97-104_038.flac key=38
+<region> sample=EWIG97-104_039.flac key=39
+<region> sample=EWIG97-104_040.flac key=40
+<region> sample=EWIG97-104_041.flac key=41
+<region> sample=EWIG97-104_042.flac key=42
+<region> sample=EWIG97-104_043.flac key=43
+<region> sample=EWIG97-104_044.flac key=44
+<region> sample=EWIG97-104_045.flac key=45
+<region> sample=EWIG97-104_046.flac key=46
+<region> sample=EWIG97-104_047.flac key=47
+<region> sample=EWIG97-104_048.flac key=48
+<region> sample=EWIG97-104_049.flac key=49
+<region> sample=EWIG97-104_050.flac key=50
+<region> sample=EWIG97-104_051.flac key=51
+<region> sample=EWIG97-104_052.flac key=52
+<region> sample=EWIG97-104_053.flac key=53
+<region> sample=EWIG97-104_054.flac key=54
+<region> sample=EWIG97-104_055.flac key=55
+<region> sample=EWIG97-104_056.flac key=56
+<region> sample=EWIG97-104_057.flac key=57
+<region> sample=EWIG97-104_058.flac key=58
+<region> sample=EWIG97-104_059.flac key=59
+<region> sample=EWIG97-104_060.flac key=60
+<region> sample=EWIG97-104_061.flac key=61
+<region> sample=EWIG97-104_062.flac key=62
+<region> sample=EWIG97-104_063.flac key=63
+<region> sample=EWIG97-104_064.flac key=64
+<region> sample=EWIG97-104_065.flac key=65
+<region> sample=EWIG97-104_066.flac key=66
+<region> sample=EWIG97-104_067.flac key=67
+<region> sample=EWIG97-104_068.flac key=68
+<region> sample=EWIG97-104_069.flac key=69
+<region> sample=EWIG97-104_070.flac key=70
+<region> sample=EWIG97-104_071.flac key=71
+<region> sample=EWIG97-104_072.flac key=72
+<region> sample=EWIG97-104_073.flac key=73
+<region> sample=EWIG97-104_074.flac key=74
+<region> sample=EWIG97-104_075.flac key=75
+<region> sample=EWIG97-104_076.flac key=76
+<region> sample=EWIG97-104_077.flac key=77
+<region> sample=EWIG97-104_078.flac key=78
+<region> sample=EWIG97-104_079.flac key=79
+<region> sample=EWIG97-104_080.flac key=80
+<region> sample=EWIG97-104_081.flac key=81
+<region> sample=EWIG97-104_082.flac key=82
+<region> sample=EWIG97-104_083.flac key=83
+<region> sample=EWIG97-104_084.flac key=84
+<region> sample=EWIG97-104_085.flac key=85
+<region> sample=EWIG97-104_086.flac key=86
+<region> sample=EWIG97-104_087.flac key=87
+<region> sample=EWIG97-104_088.flac key=88
+<region> sample=EWIG97-104_089.flac key=89
+<region> sample=EWIG97-104_090.flac key=90
+<region> sample=EWIG97-104_091.flac key=91
+<region> sample=EWIG97-104_092.flac key=92
+<region> sample=EWIG97-104_093.flac key=93
+<region> sample=EWIG97-104_094.flac key=94
+<region> sample=EWIG97-104_095.flac key=95
+<region> sample=EWIG97-104_096.flac key=96
+<region> sample=EWIG97-104_097.flac key=97
+<region> sample=EWIG97-104_098.flac key=98
+<region> sample=EWIG97-104_099.flac key=99
+<region> sample=EWIG97-104_100.flac key=100
+<region> sample=EWIG97-104_101.flac key=101
+<region> sample=EWIG97-104_102.flac key=102
+<region> sample=EWIG97-104_103.flac key=103
+<region> sample=EWIG97-104_104.flac key=104
+<region> sample=EWIG97-104_105.flac key=105
+<region> sample=EWIG97-104_106.flac key=106
+<region> sample=EWIG97-104_107.flac key=107
+<region> sample=EWIG97-104_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+effect1=75
+lovel=89 hivel=96
+ampeg_release=1.5
+amp_velcurve_127=1
+
+<region> sample=EWIG89-96_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=EWIG89-96_022.flac key=22
+<region> sample=EWIG89-96_023.flac key=23
+<region> sample=EWIG89-96_024.flac key=24
+<region> sample=EWIG89-96_025.flac key=25
+<region> sample=EWIG89-96_026.flac key=26
+<region> sample=EWIG89-96_027.flac key=27
+<region> sample=EWIG89-96_028.flac key=28
+<region> sample=EWIG89-96_029.flac key=29
+<region> sample=EWIG89-96_030.flac key=30
+<region> sample=EWIG89-96_031.flac key=31
+<region> sample=EWIG89-96_032.flac key=32 
+<region> sample=EWIG89-96_033.flac key=33
+<region> sample=EWIG89-96_034.flac key=34
+<region> sample=EWIG89-96_035.flac key=35
+<region> sample=EWIG89-96_036.flac key=36
+<region> sample=EWIG89-96_037.flac key=37
+<region> sample=EWIG89-96_038.flac key=38
+<region> sample=EWIG89-96_039.flac key=39
+<region> sample=EWIG89-96_040.flac key=40
+<region> sample=EWIG89-96_041.flac key=41
+<region> sample=EWIG89-96_042.flac key=42
+<region> sample=EWIG89-96_043.flac key=43
+<region> sample=EWIG89-96_044.flac key=44
+<region> sample=EWIG89-96_045.flac key=45
+<region> sample=EWIG89-96_046.flac key=46
+<region> sample=EWIG89-96_047.flac key=47
+<region> sample=EWIG89-96_048.flac key=48
+<region> sample=EWIG89-96_049.flac key=49
+<region> sample=EWIG89-96_050.flac key=50
+<region> sample=EWIG89-96_051.flac key=51
+<region> sample=EWIG89-96_052.flac key=52
+<region> sample=EWIG89-96_053.flac key=53
+<region> sample=EWIG89-96_054.flac key=54
+<region> sample=EWIG89-96_055.flac key=55
+<region> sample=EWIG89-96_056.flac key=56
+<region> sample=EWIG89-96_057.flac key=57
+<region> sample=EWIG89-96_058.flac key=58
+<region> sample=EWIG89-96_059.flac key=59
+<region> sample=EWIG89-96_060.flac key=60
+<region> sample=EWIG89-96_061.flac key=61
+<region> sample=EWIG89-96_062.flac key=62
+<region> sample=EWIG89-96_063.flac key=63
+<region> sample=EWIG89-96_064.flac key=64
+<region> sample=EWIG89-96_065.flac key=65
+<region> sample=EWIG89-96_066.flac key=66
+<region> sample=EWIG89-96_067.flac key=67
+<region> sample=EWIG89-96_068.flac key=68
+<region> sample=EWIG89-96_069.flac key=69
+<region> sample=EWIG89-96_070.flac key=70
+<region> sample=EWIG89-96_071.flac key=71
+<region> sample=EWIG89-96_072.flac key=72
+<region> sample=EWIG89-96_073.flac key=73
+<region> sample=EWIG89-96_074.flac key=74
+<region> sample=EWIG89-96_075.flac key=75
+<region> sample=EWIG89-96_076.flac key=76
+<region> sample=EWIG89-96_077.flac key=77
+<region> sample=EWIG89-96_078.flac key=78
+<region> sample=EWIG89-96_079.flac key=79
+<region> sample=EWIG89-96_080.flac key=80
+<region> sample=EWIG89-96_081.flac key=81
+<region> sample=EWIG89-96_082.flac key=82
+<region> sample=EWIG89-96_083.flac key=83
+<region> sample=EWIG89-96_084.flac key=84
+<region> sample=EWIG89-96_085.flac key=85
+<region> sample=EWIG89-96_086.flac key=86
+<region> sample=EWIG89-96_087.flac key=87
+<region> sample=EWIG89-96_088.flac key=88
+<region> sample=EWIG89-96_089.flac key=89
+<region> sample=EWIG89-96_090.flac key=90
+<region> sample=EWIG89-96_091.flac key=91
+<region> sample=EWIG89-96_092.flac key=92
+<region> sample=EWIG89-96_093.flac key=93
+<region> sample=EWIG89-96_094.flac key=94
+<region> sample=EWIG89-96_095.flac key=95
+<region> sample=EWIG89-96_096.flac key=96
+<region> sample=EWIG89-96_097.flac key=97
+<region> sample=EWIG89-96_098.flac key=98
+<region> sample=EWIG89-96_099.flac key=99
+<region> sample=EWIG89-96_100.flac key=100
+<region> sample=EWIG89-96_101.flac key=101
+<region> sample=EWIG89-96_102.flac key=102
+<region> sample=EWIG89-96_103.flac key=103
+<region> sample=EWIG89-96_104.flac key=104
+<region> sample=EWIG89-96_105.flac key=105
+<region> sample=EWIG89-96_106.flac key=106
+<region> sample=EWIG89-96_107.flac key=107
+<region> sample=EWIG89-96_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+effect1=75
+lovel=77 hivel=88
+ampeg_release=1.5
+amp_velcurve_127=1
+
+<region> sample=EWIG77-88_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=EWIG77-88_022.flac key=22
+<region> sample=EWIG77-88_023.flac key=23
+<region> sample=EWIG77-88_024.flac key=24
+<region> sample=EWIG77-88_025.flac key=25
+<region> sample=EWIG77-88_026.flac key=26
+<region> sample=EWIG77-88_027.flac key=27
+<region> sample=EWIG77-88_028.flac key=28
+<region> sample=EWIG77-88_029.flac key=29
+<region> sample=EWIG77-88_030.flac key=30
+<region> sample=EWIG77-88_031.flac key=31
+<region> sample=EWIG77-88_032.flac key=32 
+<region> sample=EWIG77-88_033.flac key=33
+<region> sample=EWIG77-88_034.flac key=34
+<region> sample=EWIG77-88_035.flac key=35
+<region> sample=EWIG77-88_036.flac key=36
+<region> sample=EWIG77-88_037.flac key=37
+<region> sample=EWIG77-88_038.flac key=38
+<region> sample=EWIG77-88_039.flac key=39
+<region> sample=EWIG77-88_040.flac key=40
+<region> sample=EWIG77-88_041.flac key=41
+<region> sample=EWIG77-88_042.flac key=42
+<region> sample=EWIG77-88_043.flac key=43
+<region> sample=EWIG77-88_044.flac key=44
+<region> sample=EWIG77-88_045.flac key=45
+<region> sample=EWIG77-88_046.flac key=46
+<region> sample=EWIG77-88_047.flac key=47
+<region> sample=EWIG77-88_048.flac key=48
+<region> sample=EWIG77-88_049.flac key=49
+<region> sample=EWIG77-88_050.flac key=50
+<region> sample=EWIG77-88_051.flac key=51
+<region> sample=EWIG77-88_052.flac key=52
+<region> sample=EWIG77-88_053.flac key=53
+<region> sample=EWIG77-88_054.flac key=54
+<region> sample=EWIG77-88_055.flac key=55
+<region> sample=EWIG77-88_056.flac key=56
+<region> sample=EWIG77-88_057.flac key=57
+<region> sample=EWIG77-88_058.flac key=58
+<region> sample=EWIG77-88_059.flac key=59
+<region> sample=EWIG77-88_060.flac key=60
+<region> sample=EWIG77-88_061.flac key=61
+<region> sample=EWIG77-88_062.flac key=62
+<region> sample=EWIG77-88_063.flac key=63
+<region> sample=EWIG77-88_064.flac key=64
+<region> sample=EWIG77-88_065.flac key=65
+<region> sample=EWIG77-88_066.flac key=66
+<region> sample=EWIG77-88_067.flac key=67
+<region> sample=EWIG77-88_068.flac key=68
+<region> sample=EWIG77-88_069.flac key=69
+<region> sample=EWIG77-88_070.flac key=70
+<region> sample=EWIG77-88_071.flac key=71
+<region> sample=EWIG77-88_072.flac key=72
+<region> sample=EWIG77-88_073.flac key=73
+<region> sample=EWIG77-88_074.flac key=74
+<region> sample=EWIG77-88_075.flac key=75
+<region> sample=EWIG77-88_076.flac key=76
+<region> sample=EWIG77-88_077.flac key=77
+<region> sample=EWIG77-88_078.flac key=78
+<region> sample=EWIG77-88_079.flac key=79
+<region> sample=EWIG77-88_080.flac key=80
+<region> sample=EWIG77-88_081.flac key=81
+<region> sample=EWIG77-88_082.flac key=82
+<region> sample=EWIG77-88_083.flac key=83
+<region> sample=EWIG77-88_084.flac key=84
+<region> sample=EWIG77-88_085.flac key=85
+<region> sample=EWIG77-88_086.flac key=86
+<region> sample=EWIG77-88_087.flac key=87
+<region> sample=EWIG77-88_088.flac key=88
+<region> sample=EWIG77-88_089.flac key=89
+<region> sample=EWIG77-88_090.flac key=90
+<region> sample=EWIG77-88_091.flac key=91
+<region> sample=EWIG77-88_092.flac key=92
+<region> sample=EWIG77-88_093.flac key=93
+<region> sample=EWIG77-88_094.flac key=94
+<region> sample=EWIG77-88_095.flac key=95
+<region> sample=EWIG77-88_096.flac key=96
+<region> sample=EWIG77-88_097.flac key=97
+<region> sample=EWIG77-88_098.flac key=98
+<region> sample=EWIG77-88_099.flac key=99
+<region> sample=EWIG77-88_100.flac key=100
+<region> sample=EWIG77-88_101.flac key=101
+<region> sample=EWIG77-88_102.flac key=102
+<region> sample=EWIG77-88_103.flac key=103
+<region> sample=EWIG77-88_104.flac key=104
+<region> sample=EWIG77-88_105.flac key=105
+<region> sample=EWIG77-88_106.flac key=106
+<region> sample=EWIG77-88_107.flac key=107
+<region> sample=EWIG77-88_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+effect1=75
+lovel=65 hivel=76
+ampeg_release=1.5
+amp_velcurve_127=1
+
+<region> sample=EWIG65-76_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=EWIG65-76_022.flac key=22
+<region> sample=EWIG65-76_023.flac key=23
+<region> sample=EWIG65-76_024.flac key=24
+<region> sample=EWIG65-76_025.flac key=25
+<region> sample=EWIG65-76_026.flac key=26
+<region> sample=EWIG65-76_027.flac key=27
+<region> sample=EWIG65-76_028.flac key=28
+<region> sample=EWIG65-76_029.flac key=29
+<region> sample=EWIG65-76_030.flac key=30
+<region> sample=EWIG65-76_031.flac key=31
+<region> sample=EWIG65-76_032.flac key=32 
+<region> sample=EWIG65-76_033.flac key=33
+<region> sample=EWIG65-76_034.flac key=34
+<region> sample=EWIG65-76_035.flac key=35
+<region> sample=EWIG65-76_036.flac key=36
+<region> sample=EWIG65-76_037.flac key=37
+<region> sample=EWIG65-76_038.flac key=38
+<region> sample=EWIG65-76_039.flac key=39
+<region> sample=EWIG65-76_040.flac key=40
+<region> sample=EWIG65-76_041.flac key=41
+<region> sample=EWIG65-76_042.flac key=42
+<region> sample=EWIG65-76_043.flac key=43
+<region> sample=EWIG65-76_044.flac key=44
+<region> sample=EWIG65-76_045.flac key=45
+<region> sample=EWIG65-76_046.flac key=46
+<region> sample=EWIG65-76_047.flac key=47
+<region> sample=EWIG65-76_048.flac key=48
+<region> sample=EWIG65-76_049.flac key=49
+<region> sample=EWIG65-76_050.flac key=50
+<region> sample=EWIG65-76_051.flac key=51
+<region> sample=EWIG65-76_052.flac key=52
+<region> sample=EWIG65-76_053.flac key=53
+<region> sample=EWIG65-76_054.flac key=54
+<region> sample=EWIG65-76_055.flac key=55
+<region> sample=EWIG65-76_056.flac key=56
+<region> sample=EWIG65-76_057.flac key=57
+<region> sample=EWIG65-76_058.flac key=58
+<region> sample=EWIG65-76_059.flac key=59
+<region> sample=EWIG65-76_060.flac key=60
+<region> sample=EWIG65-76_061.flac key=61
+<region> sample=EWIG65-76_062.flac key=62
+<region> sample=EWIG65-76_063.flac key=63
+<region> sample=EWIG65-76_064.flac key=64
+<region> sample=EWIG65-76_065.flac key=65
+<region> sample=EWIG65-76_066.flac key=66
+<region> sample=EWIG65-76_067.flac key=67
+<region> sample=EWIG65-76_068.flac key=68
+<region> sample=EWIG65-76_069.flac key=69
+<region> sample=EWIG65-76_070.flac key=70
+<region> sample=EWIG65-76_071.flac key=71
+<region> sample=EWIG65-76_072.flac key=72
+<region> sample=EWIG65-76_073.flac key=73
+<region> sample=EWIG65-76_074.flac key=74
+<region> sample=EWIG65-76_075.flac key=75
+<region> sample=EWIG65-76_076.flac key=76
+<region> sample=EWIG65-76_077.flac key=77
+<region> sample=EWIG65-76_078.flac key=78
+<region> sample=EWIG65-76_079.flac key=79
+<region> sample=EWIG65-76_080.flac key=80
+<region> sample=EWIG65-76_081.flac key=81
+<region> sample=EWIG65-76_082.flac key=82
+<region> sample=EWIG65-76_083.flac key=83
+<region> sample=EWIG65-76_084.flac key=84
+<region> sample=EWIG65-76_085.flac key=85
+<region> sample=EWIG65-76_086.flac key=86
+<region> sample=EWIG65-76_087.flac key=87
+<region> sample=EWIG65-76_088.flac key=88
+<region> sample=EWIG65-76_089.flac key=89
+<region> sample=EWIG65-76_090.flac key=90
+<region> sample=EWIG65-76_091.flac key=91
+<region> sample=EWIG65-76_092.flac key=92
+<region> sample=EWIG65-76_093.flac key=93
+<region> sample=EWIG65-76_094.flac key=94
+<region> sample=EWIG65-76_095.flac key=95
+<region> sample=EWIG65-76_096.flac key=96
+<region> sample=EWIG65-76_097.flac key=97
+<region> sample=EWIG65-76_098.flac key=98
+<region> sample=EWIG65-76_099.flac key=99
+<region> sample=EWIG65-76_100.flac key=100
+<region> sample=EWIG65-76_101.flac key=101
+<region> sample=EWIG65-76_102.flac key=102
+<region> sample=EWIG65-76_103.flac key=103
+<region> sample=EWIG65-76_104.flac key=104
+<region> sample=EWIG65-76_105.flac key=105
+<region> sample=EWIG65-76_106.flac key=106
+<region> sample=EWIG65-76_107.flac key=107
+<region> sample=EWIG65-76_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+effect1=75
+lovel=57 hivel=64
+ampeg_release=1.5
+amp_velcurve_127=1
+
+<region> sample=EWIG57-64_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=EWIG57-64_022.flac key=22
+<region> sample=EWIG57-64_023.flac key=23
+<region> sample=EWIG57-64_024.flac key=24
+<region> sample=EWIG57-64_025.flac key=25
+<region> sample=EWIG57-64_026.flac key=26
+<region> sample=EWIG57-64_027.flac key=27
+<region> sample=EWIG57-64_028.flac key=28
+<region> sample=EWIG57-64_029.flac key=29
+<region> sample=EWIG57-64_030.flac key=30
+<region> sample=EWIG57-64_031.flac key=31
+<region> sample=EWIG57-64_032.flac key=32 
+<region> sample=EWIG57-64_033.flac key=33
+<region> sample=EWIG57-64_034.flac key=34
+<region> sample=EWIG57-64_035.flac key=35
+<region> sample=EWIG57-64_036.flac key=36
+<region> sample=EWIG57-64_037.flac key=37
+<region> sample=EWIG57-64_038.flac key=38
+<region> sample=EWIG57-64_039.flac key=39
+<region> sample=EWIG57-64_040.flac key=40
+<region> sample=EWIG57-64_041.flac key=41
+<region> sample=EWIG57-64_042.flac key=42
+<region> sample=EWIG57-64_043.flac key=43
+<region> sample=EWIG57-64_044.flac key=44
+<region> sample=EWIG57-64_045.flac key=45
+<region> sample=EWIG57-64_046.flac key=46
+<region> sample=EWIG57-64_047.flac key=47
+<region> sample=EWIG57-64_048.flac key=48
+<region> sample=EWIG57-64_049.flac key=49
+<region> sample=EWIG57-64_050.flac key=50
+<region> sample=EWIG57-64_051.flac key=51
+<region> sample=EWIG57-64_052.flac key=52
+<region> sample=EWIG57-64_053.flac key=53
+<region> sample=EWIG57-64_054.flac key=54
+<region> sample=EWIG57-64_055.flac key=55
+<region> sample=EWIG57-64_056.flac key=56
+<region> sample=EWIG57-64_057.flac key=57
+<region> sample=EWIG57-64_058.flac key=58
+<region> sample=EWIG57-64_059.flac key=59
+<region> sample=EWIG57-64_060.flac key=60
+<region> sample=EWIG57-64_061.flac key=61
+<region> sample=EWIG57-64_062.flac key=62
+<region> sample=EWIG57-64_063.flac key=63
+<region> sample=EWIG57-64_064.flac key=64
+<region> sample=EWIG57-64_065.flac key=65
+<region> sample=EWIG57-64_066.flac key=66
+<region> sample=EWIG57-64_067.flac key=67
+<region> sample=EWIG57-64_068.flac key=68
+<region> sample=EWIG57-64_069.flac key=69
+<region> sample=EWIG57-64_070.flac key=70
+<region> sample=EWIG57-64_071.flac key=71
+<region> sample=EWIG57-64_072.flac key=72
+<region> sample=EWIG57-64_073.flac key=73
+<region> sample=EWIG57-64_074.flac key=74
+<region> sample=EWIG57-64_075.flac key=75
+<region> sample=EWIG57-64_076.flac key=76
+<region> sample=EWIG57-64_077.flac key=77
+<region> sample=EWIG57-64_078.flac key=78
+<region> sample=EWIG57-64_079.flac key=79
+<region> sample=EWIG57-64_080.flac key=80
+<region> sample=EWIG57-64_081.flac key=81
+<region> sample=EWIG57-64_082.flac key=82
+<region> sample=EWIG57-64_083.flac key=83
+<region> sample=EWIG57-64_084.flac key=84
+<region> sample=EWIG57-64_085.flac key=85
+<region> sample=EWIG57-64_086.flac key=86
+<region> sample=EWIG57-64_087.flac key=87
+<region> sample=EWIG57-64_088.flac key=88
+<region> sample=EWIG57-64_089.flac key=89
+<region> sample=EWIG57-64_090.flac key=90
+<region> sample=EWIG57-64_091.flac key=91
+<region> sample=EWIG57-64_092.flac key=92
+<region> sample=EWIG57-64_093.flac key=93
+<region> sample=EWIG57-64_094.flac key=94
+<region> sample=EWIG57-64_095.flac key=95
+<region> sample=EWIG57-64_096.flac key=96
+<region> sample=EWIG57-64_097.flac key=97
+<region> sample=EWIG57-64_098.flac key=98
+<region> sample=EWIG57-64_099.flac key=99
+<region> sample=EWIG57-64_100.flac key=100
+<region> sample=EWIG57-64_101.flac key=101
+<region> sample=EWIG57-64_102.flac key=102
+<region> sample=EWIG57-64_103.flac key=103
+<region> sample=EWIG57-64_104.flac key=104
+<region> sample=EWIG57-64_105.flac key=105
+<region> sample=EWIG57-64_106.flac key=106
+<region> sample=EWIG57-64_107.flac key=107
+<region> sample=EWIG57-64_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+effect1=75
+lovel=49 hivel=56
+ampeg_release=1.5
+amp_velcurve_127=1
+
+<region> sample=EWIG49-56_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=EWIG49-56_022.flac key=22
+<region> sample=EWIG49-56_023.flac key=23
+<region> sample=EWIG49-56_024.flac key=24
+<region> sample=EWIG49-56_025.flac key=25
+<region> sample=EWIG49-56_026.flac key=26
+<region> sample=EWIG49-56_027.flac key=27
+<region> sample=EWIG49-56_028.flac key=28
+<region> sample=EWIG49-56_029.flac key=29
+<region> sample=EWIG49-56_030.flac key=30
+<region> sample=EWIG49-56_031.flac key=31
+<region> sample=EWIG49-56_032.flac key=32 
+<region> sample=EWIG49-56_033.flac key=33
+<region> sample=EWIG49-56_034.flac key=34
+<region> sample=EWIG49-56_035.flac key=35
+<region> sample=EWIG49-56_036.flac key=36
+<region> sample=EWIG49-56_037.flac key=37
+<region> sample=EWIG49-56_038.flac key=38
+<region> sample=EWIG49-56_039.flac key=39
+<region> sample=EWIG49-56_040.flac key=40
+<region> sample=EWIG49-56_041.flac key=41
+<region> sample=EWIG49-56_042.flac key=42
+<region> sample=EWIG49-56_043.flac key=43
+<region> sample=EWIG49-56_044.flac key=44
+<region> sample=EWIG49-56_045.flac key=45
+<region> sample=EWIG49-56_046.flac key=46
+<region> sample=EWIG49-56_047.flac key=47
+<region> sample=EWIG49-56_048.flac key=48
+<region> sample=EWIG49-56_049.flac key=49
+<region> sample=EWIG49-56_050.flac key=50
+<region> sample=EWIG49-56_051.flac key=51
+<region> sample=EWIG49-56_052.flac key=52
+<region> sample=EWIG49-56_053.flac key=53
+<region> sample=EWIG49-56_054.flac key=54
+<region> sample=EWIG49-56_055.flac key=55
+<region> sample=EWIG49-56_056.flac key=56
+<region> sample=EWIG49-56_057.flac key=57
+<region> sample=EWIG49-56_058.flac key=58
+<region> sample=EWIG49-56_059.flac key=59
+<region> sample=EWIG49-56_060.flac key=60
+<region> sample=EWIG49-56_061.flac key=61
+<region> sample=EWIG49-56_062.flac key=62
+<region> sample=EWIG49-56_063.flac key=63
+<region> sample=EWIG49-56_064.flac key=64
+<region> sample=EWIG49-56_065.flac key=65
+<region> sample=EWIG49-56_066.flac key=66
+<region> sample=EWIG49-56_067.flac key=67
+<region> sample=EWIG49-56_068.flac key=68
+<region> sample=EWIG49-56_069.flac key=69
+<region> sample=EWIG49-56_070.flac key=70
+<region> sample=EWIG49-56_071.flac key=71
+<region> sample=EWIG49-56_072.flac key=72
+<region> sample=EWIG49-56_073.flac key=73
+<region> sample=EWIG49-56_074.flac key=74
+<region> sample=EWIG49-56_075.flac key=75
+<region> sample=EWIG49-56_076.flac key=76
+<region> sample=EWIG49-56_077.flac key=77
+<region> sample=EWIG49-56_078.flac key=78
+<region> sample=EWIG49-56_079.flac key=79
+<region> sample=EWIG49-56_080.flac key=80
+<region> sample=EWIG49-56_081.flac key=81
+<region> sample=EWIG49-56_082.flac key=82
+<region> sample=EWIG49-56_083.flac key=83
+<region> sample=EWIG49-56_084.flac key=84
+<region> sample=EWIG49-56_085.flac key=85
+<region> sample=EWIG49-56_086.flac key=86
+<region> sample=EWIG49-56_087.flac key=87
+<region> sample=EWIG49-56_088.flac key=88
+<region> sample=EWIG49-56_089.flac key=89
+<region> sample=EWIG49-56_090.flac key=90
+<region> sample=EWIG49-56_091.flac key=91
+<region> sample=EWIG49-56_092.flac key=92
+<region> sample=EWIG49-56_093.flac key=93
+<region> sample=EWIG49-56_094.flac key=94
+<region> sample=EWIG49-56_095.flac key=95
+<region> sample=EWIG49-56_096.flac key=96
+<region> sample=EWIG49-56_097.flac key=97
+<region> sample=EWIG49-56_098.flac key=98
+<region> sample=EWIG49-56_099.flac key=99
+<region> sample=EWIG49-56_100.flac key=100
+<region> sample=EWIG49-56_101.flac key=101
+<region> sample=EWIG49-56_102.flac key=102
+<region> sample=EWIG49-56_103.flac key=103
+<region> sample=EWIG49-56_104.flac key=104
+<region> sample=EWIG49-56_105.flac key=105
+<region> sample=EWIG49-56_106.flac key=106
+<region> sample=EWIG49-56_107.flac key=107
+<region> sample=EWIG49-56_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+effect1=75
+lovel=41 hivel=48
+ampeg_release=1.5
+amp_velcurve_127=1
+
+<region> sample=EWIG41-48_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=EWIG41-48_022.flac key=22
+<region> sample=EWIG41-48_023.flac key=23
+<region> sample=EWIG41-48_024.flac key=24
+<region> sample=EWIG41-48_025.flac key=25
+<region> sample=EWIG41-48_026.flac key=26
+<region> sample=EWIG41-48_027.flac key=27
+<region> sample=EWIG41-48_028.flac key=28
+<region> sample=EWIG41-48_029.flac key=29
+<region> sample=EWIG41-48_030.flac key=30
+<region> sample=EWIG41-48_031.flac key=31
+<region> sample=EWIG41-48_032.flac key=32 
+<region> sample=EWIG41-48_033.flac key=33
+<region> sample=EWIG41-48_034.flac key=34
+<region> sample=EWIG41-48_035.flac key=35
+<region> sample=EWIG41-48_036.flac key=36
+<region> sample=EWIG41-48_037.flac key=37
+<region> sample=EWIG41-48_038.flac key=38
+<region> sample=EWIG41-48_039.flac key=39
+<region> sample=EWIG41-48_040.flac key=40
+<region> sample=EWIG41-48_041.flac key=41
+<region> sample=EWIG41-48_042.flac key=42
+<region> sample=EWIG41-48_043.flac key=43
+<region> sample=EWIG41-48_044.flac key=44
+<region> sample=EWIG41-48_045.flac key=45
+<region> sample=EWIG41-48_046.flac key=46
+<region> sample=EWIG41-48_047.flac key=47
+<region> sample=EWIG41-48_048.flac key=48
+<region> sample=EWIG41-48_049.flac key=49
+<region> sample=EWIG41-48_050.flac key=50
+<region> sample=EWIG41-48_051.flac key=51
+<region> sample=EWIG41-48_052.flac key=52
+<region> sample=EWIG41-48_053.flac key=53
+<region> sample=EWIG41-48_054.flac key=54
+<region> sample=EWIG41-48_055.flac key=55
+<region> sample=EWIG41-48_056.flac key=56
+<region> sample=EWIG41-48_057.flac key=57
+<region> sample=EWIG41-48_058.flac key=58
+<region> sample=EWIG41-48_059.flac key=59
+<region> sample=EWIG41-48_060.flac key=60
+<region> sample=EWIG41-48_061.flac key=61
+<region> sample=EWIG41-48_062.flac key=62
+<region> sample=EWIG41-48_063.flac key=63
+<region> sample=EWIG41-48_064.flac key=64
+<region> sample=EWIG41-48_065.flac key=65
+<region> sample=EWIG41-48_066.flac key=66
+<region> sample=EWIG41-48_067.flac key=67
+<region> sample=EWIG41-48_068.flac key=68
+<region> sample=EWIG41-48_069.flac key=69
+<region> sample=EWIG41-48_070.flac key=70
+<region> sample=EWIG41-48_071.flac key=71
+<region> sample=EWIG41-48_072.flac key=72
+<region> sample=EWIG41-48_073.flac key=73
+<region> sample=EWIG41-48_074.flac key=74
+<region> sample=EWIG41-48_075.flac key=75
+<region> sample=EWIG41-48_076.flac key=76
+<region> sample=EWIG41-48_077.flac key=77
+<region> sample=EWIG41-48_078.flac key=78
+<region> sample=EWIG41-48_079.flac key=79
+<region> sample=EWIG41-48_080.flac key=80
+<region> sample=EWIG41-48_081.flac key=81
+<region> sample=EWIG41-48_082.flac key=82
+<region> sample=EWIG41-48_083.flac key=83
+<region> sample=EWIG41-48_084.flac key=84
+<region> sample=EWIG41-48_085.flac key=85
+<region> sample=EWIG41-48_086.flac key=86
+<region> sample=EWIG41-48_087.flac key=87
+<region> sample=EWIG41-48_088.flac key=88
+<region> sample=EWIG41-48_089.flac key=89
+<region> sample=EWIG41-48_090.flac key=90
+<region> sample=EWIG41-48_091.flac key=91
+<region> sample=EWIG41-48_092.flac key=92
+<region> sample=EWIG41-48_093.flac key=93
+<region> sample=EWIG41-48_094.flac key=94
+<region> sample=EWIG41-48_095.flac key=95
+<region> sample=EWIG41-48_096.flac key=96
+<region> sample=EWIG41-48_097.flac key=97
+<region> sample=EWIG41-48_098.flac key=98
+<region> sample=EWIG41-48_099.flac key=99
+<region> sample=EWIG41-48_100.flac key=100
+<region> sample=EWIG41-48_101.flac key=101
+<region> sample=EWIG41-48_102.flac key=102
+<region> sample=EWIG41-48_103.flac key=103
+<region> sample=EWIG41-48_104.flac key=104
+<region> sample=EWIG41-48_105.flac key=105
+<region> sample=EWIG41-48_106.flac key=106
+<region> sample=EWIG41-48_107.flac key=107
+<region> sample=EWIG41-48_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+effect1=75
+lovel=33 hivel=40
+ampeg_release=1.5
+amp_velcurve_127=1
+
+<region> sample=EWIG33-40_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=EWIG33-40_022.flac key=22
+<region> sample=EWIG33-40_023.flac key=23
+<region> sample=EWIG33-40_024.flac key=24
+<region> sample=EWIG33-40_025.flac key=25
+<region> sample=EWIG33-40_026.flac key=26
+<region> sample=EWIG33-40_027.flac key=27
+<region> sample=EWIG33-40_028.flac key=28
+<region> sample=EWIG33-40_029.flac key=29
+<region> sample=EWIG33-40_030.flac key=30
+<region> sample=EWIG33-40_031.flac key=31
+<region> sample=EWIG33-40_032.flac key=32 
+<region> sample=EWIG33-40_033.flac key=33
+<region> sample=EWIG33-40_034.flac key=34
+<region> sample=EWIG33-40_035.flac key=35
+<region> sample=EWIG33-40_036.flac key=36
+<region> sample=EWIG33-40_037.flac key=37
+<region> sample=EWIG33-40_038.flac key=38
+<region> sample=EWIG33-40_039.flac key=39
+<region> sample=EWIG33-40_040.flac key=40
+<region> sample=EWIG33-40_041.flac key=41
+<region> sample=EWIG33-40_042.flac key=42
+<region> sample=EWIG33-40_043.flac key=43
+<region> sample=EWIG33-40_044.flac key=44
+<region> sample=EWIG33-40_045.flac key=45
+<region> sample=EWIG33-40_046.flac key=46
+<region> sample=EWIG33-40_047.flac key=47
+<region> sample=EWIG33-40_048.flac key=48
+<region> sample=EWIG33-40_049.flac key=49
+<region> sample=EWIG33-40_050.flac key=50
+<region> sample=EWIG33-40_051.flac key=51
+<region> sample=EWIG33-40_052.flac key=52
+<region> sample=EWIG33-40_053.flac key=53
+<region> sample=EWIG33-40_054.flac key=54
+<region> sample=EWIG33-40_055.flac key=55
+<region> sample=EWIG33-40_056.flac key=56
+<region> sample=EWIG33-40_057.flac key=57
+<region> sample=EWIG33-40_058.flac key=58
+<region> sample=EWIG33-40_059.flac key=59
+<region> sample=EWIG33-40_060.flac key=60
+<region> sample=EWIG33-40_061.flac key=61
+<region> sample=EWIG33-40_062.flac key=62
+<region> sample=EWIG33-40_063.flac key=63
+<region> sample=EWIG33-40_064.flac key=64
+<region> sample=EWIG33-40_065.flac key=65
+<region> sample=EWIG33-40_066.flac key=66
+<region> sample=EWIG33-40_067.flac key=67
+<region> sample=EWIG33-40_068.flac key=68
+<region> sample=EWIG33-40_069.flac key=69
+<region> sample=EWIG33-40_070.flac key=70
+<region> sample=EWIG33-40_071.flac key=71
+<region> sample=EWIG33-40_072.flac key=72
+<region> sample=EWIG33-40_073.flac key=73
+<region> sample=EWIG33-40_074.flac key=74
+<region> sample=EWIG33-40_075.flac key=75
+<region> sample=EWIG33-40_076.flac key=76
+<region> sample=EWIG33-40_077.flac key=77
+<region> sample=EWIG33-40_078.flac key=78
+<region> sample=EWIG33-40_079.flac key=79
+<region> sample=EWIG33-40_080.flac key=80
+<region> sample=EWIG33-40_081.flac key=81
+<region> sample=EWIG33-40_082.flac key=82
+<region> sample=EWIG33-40_083.flac key=83
+<region> sample=EWIG33-40_084.flac key=84
+<region> sample=EWIG33-40_085.flac key=85
+<region> sample=EWIG33-40_086.flac key=86
+<region> sample=EWIG33-40_087.flac key=87
+<region> sample=EWIG33-40_088.flac key=88
+<region> sample=EWIG33-40_089.flac key=89
+<region> sample=EWIG33-40_090.flac key=90
+<region> sample=EWIG33-40_091.flac key=91
+<region> sample=EWIG33-40_092.flac key=92
+<region> sample=EWIG33-40_093.flac key=93
+<region> sample=EWIG33-40_094.flac key=94
+<region> sample=EWIG33-40_095.flac key=95
+<region> sample=EWIG33-40_096.flac key=96
+<region> sample=EWIG33-40_097.flac key=97
+<region> sample=EWIG33-40_098.flac key=98
+<region> sample=EWIG33-40_099.flac key=99
+<region> sample=EWIG33-40_100.flac key=100
+<region> sample=EWIG33-40_101.flac key=101
+<region> sample=EWIG33-40_102.flac key=102
+<region> sample=EWIG33-40_103.flac key=103
+<region> sample=EWIG33-40_104.flac key=104
+<region> sample=EWIG33-40_105.flac key=105
+<region> sample=EWIG33-40_106.flac key=106
+<region> sample=EWIG33-40_107.flac key=107
+<region> sample=EWIG33-40_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+effect1=75
+lovel=29 hivel=32
+ampeg_release=1.5
+amp_velcurve_127=1
+
+<region> sample=EWIG29-32_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=EWIG29-32_022.flac key=22
+<region> sample=EWIG29-32_023.flac key=23
+<region> sample=EWIG29-32_024.flac key=24
+<region> sample=EWIG29-32_025.flac key=25
+<region> sample=EWIG29-32_026.flac key=26
+<region> sample=EWIG29-32_027.flac key=27
+<region> sample=EWIG29-32_028.flac key=28
+<region> sample=EWIG29-32_029.flac key=29
+<region> sample=EWIG29-32_030.flac key=30
+<region> sample=EWIG29-32_031.flac key=31
+<region> sample=EWIG29-32_032.flac key=32 
+<region> sample=EWIG29-32_033.flac key=33
+<region> sample=EWIG29-32_034.flac key=34
+<region> sample=EWIG29-32_035.flac key=35
+<region> sample=EWIG29-32_036.flac key=36
+<region> sample=EWIG29-32_037.flac key=37
+<region> sample=EWIG29-32_038.flac key=38
+<region> sample=EWIG29-32_039.flac key=39
+<region> sample=EWIG29-32_040.flac key=40
+<region> sample=EWIG29-32_041.flac key=41
+<region> sample=EWIG29-32_042.flac key=42
+<region> sample=EWIG29-32_043.flac key=43
+<region> sample=EWIG29-32_044.flac key=44
+<region> sample=EWIG29-32_045.flac key=45
+<region> sample=EWIG29-32_046.flac key=46
+<region> sample=EWIG29-32_047.flac key=47
+<region> sample=EWIG29-32_048.flac key=48
+<region> sample=EWIG29-32_049.flac key=49
+<region> sample=EWIG29-32_050.flac key=50
+<region> sample=EWIG29-32_051.flac key=51
+<region> sample=EWIG29-32_052.flac key=52
+<region> sample=EWIG29-32_053.flac key=53
+<region> sample=EWIG29-32_054.flac key=54
+<region> sample=EWIG29-32_055.flac key=55
+<region> sample=EWIG29-32_056.flac key=56
+<region> sample=EWIG29-32_057.flac key=57
+<region> sample=EWIG29-32_058.flac key=58
+<region> sample=EWIG29-32_059.flac key=59
+<region> sample=EWIG29-32_060.flac key=60
+<region> sample=EWIG29-32_061.flac key=61
+<region> sample=EWIG29-32_062.flac key=62
+<region> sample=EWIG29-32_063.flac key=63
+<region> sample=EWIG29-32_064.flac key=64
+<region> sample=EWIG29-32_065.flac key=65
+<region> sample=EWIG29-32_066.flac key=66
+<region> sample=EWIG29-32_067.flac key=67
+<region> sample=EWIG29-32_068.flac key=68
+<region> sample=EWIG29-32_069.flac key=69
+<region> sample=EWIG29-32_070.flac key=70
+<region> sample=EWIG29-32_071.flac key=71
+<region> sample=EWIG29-32_072.flac key=72
+<region> sample=EWIG29-32_073.flac key=73
+<region> sample=EWIG29-32_074.flac key=74
+<region> sample=EWIG29-32_075.flac key=75
+<region> sample=EWIG29-32_076.flac key=76
+<region> sample=EWIG29-32_077.flac key=77
+<region> sample=EWIG29-32_078.flac key=78
+<region> sample=EWIG29-32_079.flac key=79
+<region> sample=EWIG29-32_080.flac key=80
+<region> sample=EWIG29-32_081.flac key=81
+<region> sample=EWIG29-32_082.flac key=82
+<region> sample=EWIG29-32_083.flac key=83
+<region> sample=EWIG29-32_084.flac key=84
+<region> sample=EWIG29-32_085.flac key=85
+<region> sample=EWIG29-32_086.flac key=86
+<region> sample=EWIG29-32_087.flac key=87
+<region> sample=EWIG29-32_088.flac key=88
+<region> sample=EWIG29-32_089.flac key=89
+<region> sample=EWIG29-32_090.flac key=90
+<region> sample=EWIG29-32_091.flac key=91
+<region> sample=EWIG29-32_092.flac key=92
+<region> sample=EWIG29-32_093.flac key=93
+<region> sample=EWIG29-32_094.flac key=94
+<region> sample=EWIG29-32_095.flac key=95
+<region> sample=EWIG29-32_096.flac key=96
+<region> sample=EWIG29-32_097.flac key=97
+<region> sample=EWIG29-32_098.flac key=98
+<region> sample=EWIG29-32_099.flac key=99
+<region> sample=EWIG29-32_100.flac key=100
+<region> sample=EWIG29-32_101.flac key=101
+<region> sample=EWIG29-32_102.flac key=102
+<region> sample=EWIG29-32_103.flac key=103
+<region> sample=EWIG29-32_104.flac key=104
+<region> sample=EWIG29-32_105.flac key=105
+<region> sample=EWIG29-32_106.flac key=106
+<region> sample=EWIG29-32_107.flac key=107
+<region> sample=EWIG29-32_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+effect1=75
+lovel=25 hivel=28
+ampeg_release=1.5
+amp_velcurve_127=1
+
+<region> sample=EWIG25-28_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=EWIG25-28_022.flac key=22
+<region> sample=EWIG25-28_023.flac key=23
+<region> sample=EWIG25-28_024.flac key=24
+<region> sample=EWIG25-28_025.flac key=25
+<region> sample=EWIG25-28_026.flac key=26
+<region> sample=EWIG25-28_027.flac key=27
+<region> sample=EWIG25-28_028.flac key=28
+<region> sample=EWIG25-28_029.flac key=29
+<region> sample=EWIG25-28_030.flac key=30
+<region> sample=EWIG25-28_031.flac key=31
+<region> sample=EWIG25-28_032.flac key=32 
+<region> sample=EWIG25-28_033.flac key=33
+<region> sample=EWIG25-28_034.flac key=34
+<region> sample=EWIG25-28_035.flac key=35
+<region> sample=EWIG25-28_036.flac key=36
+<region> sample=EWIG25-28_037.flac key=37
+<region> sample=EWIG25-28_038.flac key=38
+<region> sample=EWIG25-28_039.flac key=39
+<region> sample=EWIG25-28_040.flac key=40
+<region> sample=EWIG25-28_041.flac key=41
+<region> sample=EWIG25-28_042.flac key=42
+<region> sample=EWIG25-28_043.flac key=43
+<region> sample=EWIG25-28_044.flac key=44
+<region> sample=EWIG25-28_045.flac key=45
+<region> sample=EWIG25-28_046.flac key=46
+<region> sample=EWIG25-28_047.flac key=47
+<region> sample=EWIG25-28_048.flac key=48
+<region> sample=EWIG25-28_049.flac key=49
+<region> sample=EWIG25-28_050.flac key=50
+<region> sample=EWIG25-28_051.flac key=51
+<region> sample=EWIG25-28_052.flac key=52
+<region> sample=EWIG25-28_053.flac key=53
+<region> sample=EWIG25-28_054.flac key=54
+<region> sample=EWIG25-28_055.flac key=55
+<region> sample=EWIG25-28_056.flac key=56
+<region> sample=EWIG25-28_057.flac key=57
+<region> sample=EWIG25-28_058.flac key=58
+<region> sample=EWIG25-28_059.flac key=59
+<region> sample=EWIG25-28_060.flac key=60
+<region> sample=EWIG25-28_061.flac key=61
+<region> sample=EWIG25-28_062.flac key=62
+<region> sample=EWIG25-28_063.flac key=63
+<region> sample=EWIG25-28_064.flac key=64
+<region> sample=EWIG25-28_065.flac key=65
+<region> sample=EWIG25-28_066.flac key=66
+<region> sample=EWIG25-28_067.flac key=67
+<region> sample=EWIG25-28_068.flac key=68
+<region> sample=EWIG25-28_069.flac key=69
+<region> sample=EWIG25-28_070.flac key=70
+<region> sample=EWIG25-28_071.flac key=71
+<region> sample=EWIG25-28_072.flac key=72
+<region> sample=EWIG25-28_073.flac key=73
+<region> sample=EWIG25-28_074.flac key=74
+<region> sample=EWIG25-28_075.flac key=75
+<region> sample=EWIG25-28_076.flac key=76
+<region> sample=EWIG25-28_077.flac key=77
+<region> sample=EWIG25-28_078.flac key=78
+<region> sample=EWIG25-28_079.flac key=79
+<region> sample=EWIG25-28_080.flac key=80
+<region> sample=EWIG25-28_081.flac key=81
+<region> sample=EWIG25-28_082.flac key=82
+<region> sample=EWIG25-28_083.flac key=83
+<region> sample=EWIG25-28_084.flac key=84
+<region> sample=EWIG25-28_085.flac key=85
+<region> sample=EWIG25-28_086.flac key=86
+<region> sample=EWIG25-28_087.flac key=87
+<region> sample=EWIG25-28_088.flac key=88
+<region> sample=EWIG25-28_089.flac key=89
+<region> sample=EWIG25-28_090.flac key=90
+<region> sample=EWIG25-28_091.flac key=91
+<region> sample=EWIG25-28_092.flac key=92
+<region> sample=EWIG25-28_093.flac key=93
+<region> sample=EWIG25-28_094.flac key=94
+<region> sample=EWIG25-28_095.flac key=95
+<region> sample=EWIG25-28_096.flac key=96
+<region> sample=EWIG25-28_097.flac key=97
+<region> sample=EWIG25-28_098.flac key=98
+<region> sample=EWIG25-28_099.flac key=99
+<region> sample=EWIG25-28_100.flac key=100
+<region> sample=EWIG25-28_101.flac key=101
+<region> sample=EWIG25-28_102.flac key=102
+<region> sample=EWIG25-28_103.flac key=103
+<region> sample=EWIG25-28_104.flac key=104
+<region> sample=EWIG25-28_105.flac key=105
+<region> sample=EWIG25-28_106.flac key=106
+<region> sample=EWIG25-28_107.flac key=107
+<region> sample=EWIG25-28_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+effect1=75
+lovel=21 hivel=24
+ampeg_release=1.5
+amp_velcurve_127=1
+
+<region> sample=EWIG21-24_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=EWIG21-24_022.flac key=22
+<region> sample=EWIG21-24_023.flac key=23
+<region> sample=EWIG21-24_024.flac key=24
+<region> sample=EWIG21-24_025.flac key=25
+<region> sample=EWIG21-24_026.flac key=26
+<region> sample=EWIG21-24_027.flac key=27
+<region> sample=EWIG21-24_028.flac key=28
+<region> sample=EWIG21-24_029.flac key=29
+<region> sample=EWIG21-24_030.flac key=30
+<region> sample=EWIG21-24_031.flac key=31
+<region> sample=EWIG21-24_032.flac key=32 
+<region> sample=EWIG21-24_033.flac key=33
+<region> sample=EWIG21-24_034.flac key=34
+<region> sample=EWIG21-24_035.flac key=35
+<region> sample=EWIG21-24_036.flac key=36
+<region> sample=EWIG21-24_037.flac key=37
+<region> sample=EWIG21-24_038.flac key=38
+<region> sample=EWIG21-24_039.flac key=39
+<region> sample=EWIG21-24_040.flac key=40
+<region> sample=EWIG21-24_041.flac key=41
+<region> sample=EWIG21-24_042.flac key=42
+<region> sample=EWIG21-24_043.flac key=43
+<region> sample=EWIG21-24_044.flac key=44
+<region> sample=EWIG21-24_045.flac key=45
+<region> sample=EWIG21-24_046.flac key=46
+<region> sample=EWIG21-24_047.flac key=47
+<region> sample=EWIG21-24_048.flac key=48
+<region> sample=EWIG21-24_049.flac key=49
+<region> sample=EWIG21-24_050.flac key=50
+<region> sample=EWIG21-24_051.flac key=51
+<region> sample=EWIG21-24_052.flac key=52
+<region> sample=EWIG21-24_053.flac key=53
+<region> sample=EWIG21-24_054.flac key=54
+<region> sample=EWIG21-24_055.flac key=55
+<region> sample=EWIG21-24_056.flac key=56
+<region> sample=EWIG21-24_057.flac key=57
+<region> sample=EWIG21-24_058.flac key=58
+<region> sample=EWIG21-24_059.flac key=59
+<region> sample=EWIG21-24_060.flac key=60
+<region> sample=EWIG21-24_061.flac key=61
+<region> sample=EWIG21-24_062.flac key=62
+<region> sample=EWIG21-24_063.flac key=63
+<region> sample=EWIG21-24_064.flac key=64
+<region> sample=EWIG21-24_065.flac key=65
+<region> sample=EWIG21-24_066.flac key=66
+<region> sample=EWIG21-24_067.flac key=67
+<region> sample=EWIG21-24_068.flac key=68
+<region> sample=EWIG21-24_069.flac key=69
+<region> sample=EWIG21-24_070.flac key=70
+<region> sample=EWIG21-24_071.flac key=71
+<region> sample=EWIG21-24_072.flac key=72
+<region> sample=EWIG21-24_073.flac key=73
+<region> sample=EWIG21-24_074.flac key=74
+<region> sample=EWIG21-24_075.flac key=75
+<region> sample=EWIG21-24_076.flac key=76
+<region> sample=EWIG21-24_077.flac key=77
+<region> sample=EWIG21-24_078.flac key=78
+<region> sample=EWIG21-24_079.flac key=79
+<region> sample=EWIG21-24_080.flac key=80
+<region> sample=EWIG21-24_081.flac key=81
+<region> sample=EWIG21-24_082.flac key=82
+<region> sample=EWIG21-24_083.flac key=83
+<region> sample=EWIG21-24_084.flac key=84
+<region> sample=EWIG21-24_085.flac key=85
+<region> sample=EWIG21-24_086.flac key=86
+<region> sample=EWIG21-24_087.flac key=87
+<region> sample=EWIG21-24_088.flac key=88
+<region> sample=EWIG21-24_089.flac key=89
+<region> sample=EWIG21-24_090.flac key=90
+<region> sample=EWIG21-24_091.flac key=91
+<region> sample=EWIG21-24_092.flac key=92
+<region> sample=EWIG21-24_093.flac key=93
+<region> sample=EWIG21-24_094.flac key=94
+<region> sample=EWIG21-24_095.flac key=95
+<region> sample=EWIG21-24_096.flac key=96
+<region> sample=EWIG21-24_097.flac key=97
+<region> sample=EWIG21-24_098.flac key=98
+<region> sample=EWIG21-24_099.flac key=99
+<region> sample=EWIG21-24_100.flac key=100
+<region> sample=EWIG21-24_101.flac key=101
+<region> sample=EWIG21-24_102.flac key=102
+<region> sample=EWIG21-24_103.flac key=103
+<region> sample=EWIG21-24_104.flac key=104
+<region> sample=EWIG21-24_105.flac key=105
+<region> sample=EWIG21-24_106.flac key=106
+<region> sample=EWIG21-24_107.flac key=107
+<region> sample=EWIG21-24_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+effect1=75
+lovel=17 hivel=20
+ampeg_release=1.5
+amp_velcurve_127=1
+
+<region> sample=EWIG17-20_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=EWIG17-20_022.flac key=22
+<region> sample=EWIG17-20_023.flac key=23
+<region> sample=EWIG17-20_024.flac key=24
+<region> sample=EWIG17-20_025.flac key=25
+<region> sample=EWIG17-20_026.flac key=26
+<region> sample=EWIG17-20_027.flac key=27
+<region> sample=EWIG17-20_028.flac key=28
+<region> sample=EWIG17-20_029.flac key=29
+<region> sample=EWIG17-20_030.flac key=30
+<region> sample=EWIG17-20_031.flac key=31
+<region> sample=EWIG17-20_032.flac key=32 
+<region> sample=EWIG17-20_033.flac key=33
+<region> sample=EWIG17-20_034.flac key=34
+<region> sample=EWIG17-20_035.flac key=35
+<region> sample=EWIG17-20_036.flac key=36
+<region> sample=EWIG17-20_037.flac key=37
+<region> sample=EWIG17-20_038.flac key=38
+<region> sample=EWIG17-20_039.flac key=39
+<region> sample=EWIG17-20_040.flac key=40
+<region> sample=EWIG17-20_041.flac key=41
+<region> sample=EWIG17-20_042.flac key=42
+<region> sample=EWIG17-20_043.flac key=43
+<region> sample=EWIG17-20_044.flac key=44
+<region> sample=EWIG17-20_045.flac key=45
+<region> sample=EWIG17-20_046.flac key=46
+<region> sample=EWIG17-20_047.flac key=47
+<region> sample=EWIG17-20_048.flac key=48
+<region> sample=EWIG17-20_049.flac key=49
+<region> sample=EWIG17-20_050.flac key=50
+<region> sample=EWIG17-20_051.flac key=51
+<region> sample=EWIG17-20_052.flac key=52
+<region> sample=EWIG17-20_053.flac key=53
+<region> sample=EWIG17-20_054.flac key=54
+<region> sample=EWIG17-20_055.flac key=55
+<region> sample=EWIG17-20_056.flac key=56
+<region> sample=EWIG17-20_057.flac key=57
+<region> sample=EWIG17-20_058.flac key=58
+<region> sample=EWIG17-20_059.flac key=59
+<region> sample=EWIG17-20_060.flac key=60
+<region> sample=EWIG17-20_061.flac key=61
+<region> sample=EWIG17-20_062.flac key=62
+<region> sample=EWIG17-20_063.flac key=63
+<region> sample=EWIG17-20_064.flac key=64
+<region> sample=EWIG17-20_065.flac key=65
+<region> sample=EWIG17-20_066.flac key=66
+<region> sample=EWIG17-20_067.flac key=67
+<region> sample=EWIG17-20_068.flac key=68
+<region> sample=EWIG17-20_069.flac key=69
+<region> sample=EWIG17-20_070.flac key=70
+<region> sample=EWIG17-20_071.flac key=71
+<region> sample=EWIG17-20_072.flac key=72
+<region> sample=EWIG17-20_073.flac key=73
+<region> sample=EWIG17-20_074.flac key=74
+<region> sample=EWIG17-20_075.flac key=75
+<region> sample=EWIG17-20_076.flac key=76
+<region> sample=EWIG17-20_077.flac key=77
+<region> sample=EWIG17-20_078.flac key=78
+<region> sample=EWIG17-20_079.flac key=79
+<region> sample=EWIG17-20_080.flac key=80
+<region> sample=EWIG17-20_081.flac key=81
+<region> sample=EWIG17-20_082.flac key=82
+<region> sample=EWIG17-20_083.flac key=83
+<region> sample=EWIG17-20_084.flac key=84
+<region> sample=EWIG17-20_085.flac key=85
+<region> sample=EWIG17-20_086.flac key=86
+<region> sample=EWIG17-20_087.flac key=87
+<region> sample=EWIG17-20_088.flac key=88
+<region> sample=EWIG17-20_089.flac key=89
+<region> sample=EWIG17-20_090.flac key=90
+<region> sample=EWIG17-20_091.flac key=91
+<region> sample=EWIG17-20_092.flac key=92
+<region> sample=EWIG17-20_093.flac key=93
+<region> sample=EWIG17-20_094.flac key=94
+<region> sample=EWIG17-20_095.flac key=95
+<region> sample=EWIG17-20_096.flac key=96
+<region> sample=EWIG17-20_097.flac key=97
+<region> sample=EWIG17-20_098.flac key=98
+<region> sample=EWIG17-20_099.flac key=99
+<region> sample=EWIG17-20_100.flac key=100
+<region> sample=EWIG17-20_101.flac key=101
+<region> sample=EWIG17-20_102.flac key=102
+<region> sample=EWIG17-20_103.flac key=103
+<region> sample=EWIG17-20_104.flac key=104
+<region> sample=EWIG17-20_105.flac key=105
+<region> sample=EWIG17-20_106.flac key=106
+<region> sample=EWIG17-20_107.flac key=107
+<region> sample=EWIG17-20_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+<group>
+effect1=75
+lovel=0 hivel=16
+ampeg_release=1.5
+amp_velcurve_127=1
+
+<region> sample=EWIG0-16_021.flac lokey=0 hikey=21 pitch_keycenter=21
+<region> sample=EWIG0-16_022.flac key=22
+<region> sample=EWIG0-16_023.flac key=23
+<region> sample=EWIG0-16_024.flac key=24
+<region> sample=EWIG0-16_025.flac key=25
+<region> sample=EWIG0-16_026.flac key=26
+<region> sample=EWIG0-16_027.flac key=27
+<region> sample=EWIG0-16_028.flac key=28
+<region> sample=EWIG0-16_029.flac key=29
+<region> sample=EWIG0-16_030.flac key=30
+<region> sample=EWIG0-16_031.flac key=31
+<region> sample=EWIG0-16_032.flac key=32 
+<region> sample=EWIG0-16_033.flac key=33
+<region> sample=EWIG0-16_034.flac key=34
+<region> sample=EWIG0-16_035.flac key=35
+<region> sample=EWIG0-16_036.flac key=36
+<region> sample=EWIG0-16_037.flac key=37
+<region> sample=EWIG0-16_038.flac key=38
+<region> sample=EWIG0-16_039.flac key=39
+<region> sample=EWIG0-16_040.flac key=40
+<region> sample=EWIG0-16_041.flac key=41
+<region> sample=EWIG0-16_042.flac key=42
+<region> sample=EWIG0-16_043.flac key=43
+<region> sample=EWIG0-16_044.flac key=44
+<region> sample=EWIG0-16_045.flac key=45
+<region> sample=EWIG0-16_046.flac key=46
+<region> sample=EWIG0-16_047.flac key=47
+<region> sample=EWIG0-16_048.flac key=48
+<region> sample=EWIG0-16_049.flac key=49
+<region> sample=EWIG0-16_050.flac key=50
+<region> sample=EWIG0-16_051.flac key=51
+<region> sample=EWIG0-16_052.flac key=52
+<region> sample=EWIG0-16_053.flac key=53
+<region> sample=EWIG0-16_054.flac key=54
+<region> sample=EWIG0-16_055.flac key=55
+<region> sample=EWIG0-16_056.flac key=56
+<region> sample=EWIG0-16_057.flac key=57
+<region> sample=EWIG0-16_058.flac key=58
+<region> sample=EWIG0-16_059.flac key=59
+<region> sample=EWIG0-16_060.flac key=60
+<region> sample=EWIG0-16_061.flac key=61
+<region> sample=EWIG0-16_062.flac key=62
+<region> sample=EWIG0-16_063.flac key=63
+<region> sample=EWIG0-16_064.flac key=64
+<region> sample=EWIG0-16_065.flac key=65
+<region> sample=EWIG0-16_066.flac key=66
+<region> sample=EWIG0-16_067.flac key=67
+<region> sample=EWIG0-16_068.flac key=68
+<region> sample=EWIG0-16_069.flac key=69
+<region> sample=EWIG0-16_070.flac key=70
+<region> sample=EWIG0-16_071.flac key=71
+<region> sample=EWIG0-16_072.flac key=72
+<region> sample=EWIG0-16_073.flac key=73
+<region> sample=EWIG0-16_074.flac key=74
+<region> sample=EWIG0-16_075.flac key=75
+<region> sample=EWIG0-16_076.flac key=76
+<region> sample=EWIG0-16_077.flac key=77
+<region> sample=EWIG0-16_078.flac key=78
+<region> sample=EWIG0-16_079.flac key=79
+<region> sample=EWIG0-16_080.flac key=80
+<region> sample=EWIG0-16_081.flac key=81
+<region> sample=EWIG0-16_082.flac key=82
+<region> sample=EWIG0-16_083.flac key=83
+<region> sample=EWIG0-16_084.flac key=84
+<region> sample=EWIG0-16_085.flac key=85
+<region> sample=EWIG0-16_086.flac key=86
+<region> sample=EWIG0-16_087.flac key=87
+<region> sample=EWIG0-16_088.flac key=88
+<region> sample=EWIG0-16_089.flac key=89
+<region> sample=EWIG0-16_090.flac key=90
+<region> sample=EWIG0-16_091.flac key=91
+<region> sample=EWIG0-16_092.flac key=92
+<region> sample=EWIG0-16_093.flac key=93
+<region> sample=EWIG0-16_094.flac key=94
+<region> sample=EWIG0-16_095.flac key=95
+<region> sample=EWIG0-16_096.flac key=96
+<region> sample=EWIG0-16_097.flac key=97
+<region> sample=EWIG0-16_098.flac key=98
+<region> sample=EWIG0-16_099.flac key=99
+<region> sample=EWIG0-16_100.flac key=100
+<region> sample=EWIG0-16_101.flac key=101
+<region> sample=EWIG0-16_102.flac key=102
+<region> sample=EWIG0-16_103.flac key=103
+<region> sample=EWIG0-16_104.flac key=104
+<region> sample=EWIG0-16_105.flac key=105
+<region> sample=EWIG0-16_106.flac key=106
+<region> sample=EWIG0-16_107.flac key=107
+<region> sample=EWIG0-16_108.flac lokey=108 hikey=127 pitch_keycenter=108
+
+
