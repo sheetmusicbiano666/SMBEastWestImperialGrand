@@ -19,3 +19,7 @@ The SMB Yamaha C10 Grand Piano is sampled from the well-known EastWest Yamaha C7
 ### How to use 100% Working Velocity Range?
 
 You can use 100% Working Velocity Range (Multi SMB Yamaha C10 Grand Piano.sfz) on VST Sforzando and Program "Fl Studio 20", because on KMC (Keppy Midi Converter) is Not Working Velocity Range.
+
+### Link
+
+https://mega.nz/file/kv4mQTaL#drPplBNkqO-8LPyRVhThMi_goEeJwPopiFXFP01Gih4
